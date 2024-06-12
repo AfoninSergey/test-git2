@@ -3,10 +3,10 @@ function sayHello(name = 'Gray') {
 }
 sayHello('Gray Spaer');
 
-const userAge = 40
+const age = 20;
 
 if (age >= 18) {
-    console.log('Вы совершеннолетний')
+    console.log("Вы совершеннолетний")
 } else {
-    console.log('Вы НЕ совершеннолетний')
+    console.log("Вы НЕ совершеннолетний")
 }
